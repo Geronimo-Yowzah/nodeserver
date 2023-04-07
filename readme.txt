@@ -1,0 +1,1 @@
+- docker run -p 3001:3001 -e BASE_URL=/api-docs node-docker
